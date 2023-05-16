@@ -1,4 +1,5 @@
 # Mobile Price Range Prediction
+![download (3)](https://github.com/KushalChakraborty1995/Mobile_Price_Range_Prediction/assets/114491920/0aa8bcf5-c7b1-4917-aac2-6417db16ef61)
 
 ## Problem Statement:-
 
@@ -82,3 +83,5 @@ Model Evaluation.
 ## Learning Outcome:-
 
 The students will get a better understanding of how the variables are linked to each other and how the EDA approach will help them gain more insights and knowledge about the data that we have and classify the data into similar groups using Naive Bayes. They will also learn about how to choose important features using Random Forest.
+
+![istockphoto-1132817705-612x612](https://github.com/KushalChakraborty1995/Mobile_Price_Range_Prediction/assets/114491920/0830854b-6f64-40f7-ac3c-eec15583b041)
